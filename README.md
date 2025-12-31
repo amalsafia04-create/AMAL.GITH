@@ -1,2 +1,2 @@
-# AMAL.GITH
+# amalsafia04.github.io
 My website are built with HTML and CSS 
